@@ -1,0 +1,11 @@
+{
+	"status": true,
+	"message": "",
+	"data": {
+		"versionCode": 100,
+		"version": "1.0.0",
+		"desc": "1. 新应用上线 ",
+		"type": 1,
+		"source":"https://raw.githubusercontent.com/BlueWhaleStudio/Upgrade/master/bluewhale_1.0.0.apk"
+	}
+}

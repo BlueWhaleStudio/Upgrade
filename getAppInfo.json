@@ -1,0 +1,13 @@
+{
+	"status": true,
+	"message": "",
+	"data": {
+		"info": [{
+			"title": "通知1",
+			"content": "通知1内容"
+		}, {
+			"title": "通知2",
+			"content": "通知2内容 https://www.baidu.com"
+		}]
+	}
+}

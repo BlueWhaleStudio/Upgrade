@@ -1,13 +1,16 @@
 {
-	"status": true,
-	"message": "",
-	"data": {
-		"info": [{
-			"title": "通知1",
-			"content": "通知1内容"
-		}, {
-			"title": "通知2",
-			"content": "通知2内容 https://www.baidu.com"
-		}]
-	}
+    "info": [
+        {
+            "zhTitle": "通知1",
+            "zhContent": "通知1内容",
+            "enTitle": "Notice 1",
+            "enContent": "Notice 1 Content"
+        },
+        {
+            "zhTitle": "通知2",
+            "zhContent": "通知2内容",
+            "enTitle": "Notice 2",
+            "enContent": "Notice 2 Content"
+        }
+    ]
 }

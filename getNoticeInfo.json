@@ -1,0 +1,10 @@
+{
+    "status": true,
+    "message": "",
+    "data": {
+        "zhNotice": "中文标题",
+        "zhContent": "中文内容",
+        "enNotice": "English Notice",
+        "enContent": "English Content"
+    }
+}

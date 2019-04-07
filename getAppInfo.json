@@ -1,16 +1,24 @@
 {
-    "info": [
-        {
-            "zhTitle": "通知1",
-            "zhContent": "通知1内容",
-            "enTitle": "Notice 1",
-            "enContent": "Notice 1 Content"
-        },
-        {
-            "zhTitle": "通知2",
-            "zhContent": "通知2内容",
-            "enTitle": "Notice 2",
-            "enContent": "Notice 2 Content"
+    "status": true,
+    "message": "",
+    "data": {
+        "status": true,
+        "message": "",
+        "data": {
+            "info": [
+                {
+                    "zhTitle": "通知1",
+                    "zhContent": "通知1内容",
+                    "enTitle": "Notice 1",
+                    "enContent": "Notice 1 Content"
+                },
+                {
+                    "zhTitle": "通知2",
+                    "zhContent": "通知2内容",
+                    "enTitle": "Notice 2",
+                    "enContent": "Notice 2 Content"
+                }
+            ]
         }
-    ]
+    }
 }

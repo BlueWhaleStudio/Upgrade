@@ -2,9 +2,9 @@
     "status": true,
     "message": "",
     "data": {
-        "zhNotice": "中文标题",
-        "zhContent": "中文内容",
-        "enNotice": "English Notice",
-        "enContent": "English Content"
+        "zhNotice": "想喊喊口号",
+        "zhContent": "但又不知道喊什么口号，就先这样。",
+        "enNotice": "There is a title here",
+        "enContent": "Then I don't know what to write."
     }
 }

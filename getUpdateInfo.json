@@ -1,9 +1,9 @@
 {
-	"status": false,
+	"status": true,
 	"message": "",
 	"data": {
-		"versionCode": 100,
-		"version": "1.0.0",
+		"versionCode": 5,
+		"version": "0.0.5",
 		"zhDesc": "1. 新应用上线 ",
 		"enDesc": "1. New Application ",
 		"type": 1,

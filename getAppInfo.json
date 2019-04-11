@@ -4,16 +4,16 @@
     "data": {
         "info": [
             {
-                "zhTitle": "通知1",
-                "zhContent": "通知1内容",
-                "enTitle": "Notice 1",
-                "enContent": "Notice 1 Content"
+                "zhTitle": "你好！",
+                "zhContent": "你好！",
+                "enTitle": "Hello world",
+                "enContent": "Hello world！"
             },
             {
-                "zhTitle": "通知2",
-                "zhContent": "通知2内容",
-                "enTitle": "Notice 2",
-                "enContent": "Notice 2 Content"
+                "zhTitle": "关于公测版",
+                "zhContent": "蓝鲸公测版已经上线，好像已经无力吐槽，服务器目前还是用老的服务器，接下来几天会更新好。还有关于广告，会测试几天看效果，其他就在看看，我一个人测试内测，可能会忽略了一些问题，所以这段时间有任何软件问题，我都会解决的。",
+                "enTitle": "About the public beta",
+                "enContent": "The blue whale public beta has been on the line, as if it is already unable to vomit, the server is still using the old server, and will be updated in the next few days. There is also about advertising, it will test the effect for a few days, the other is to see, I am testing the internal test alone, may ignore some problems, so there are any software problems during this time, I will solve."
             }
         ]
     }

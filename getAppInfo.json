@@ -4,21 +4,10 @@
     "data": {
         "info": [
             {
-                "zhTitle": "带秘技版在测试",
-                "zhContent": "鉴于目前广告多，我在测试一个带秘籍版的蓝鲸，每天只要输入秘技，就可以全部跳过广告，这样你们也不用太浪费时间花在广告上，不过这秘籍我不会公开在公告里面。等我测试完，我会告诉大家，然后看看通过什么途径告诉那些想知道的。相信体验应该会比现在好。\n 广告减少后，bug修复后，全局增加后，我就准备加多一台香港高级服务器试试。",
+                "zhTitle": "正式版1.02，我可以免广告了",
+                "zhContent": "又忙了两天，好累，修复了一堆Bug，还加入免广告秘籍，想体验么？有这技巧，可以省去大多数时间，不会像之前一个用户说，要用这应用要预热5~6分钟，真的把我扇醒，我一直把用户体验放口中，却一直忽略用户体验，所以我就在收益与用户体验做个平衡，一方面能让我在坚持久一点，一方面能让你们体验好点，我相信这是一个比较好的模式。这个模式是隐藏的，需要3个小步骤就能开启，比之前看广告要方便很多。想要尝试的可以私聊我。或者我把秘技写在速鱼上面，因为速鱼已经下架了，或者再看吧，现在已经好晚了，其他明天再看。\n 最后，谢谢大家的支持，好了，写在2019-04-16，蓝鲸敬上！速鱼敬上！",
                 "enTitle": "Hello world",
                 "enContent": "Hello world！"
-            },{
-                "zhTitle": "提示“系统维护中”请进",
-                "zhContent": "连接不成功，提示系统维护中，你们重新把蓝鲸的数据缓存全部清空，再次连接就可以了！目前找不到其他方法，后面看怎么改掉这个bug。谢谢使用！\n\n划重点，要考。 系统维护中  数据缓存 全部清空",
-                "enTitle": "Prompt “System Maintenance”",
-                "enContent": "The connection is not successful, prompting the system maintenance, you can completely empty the blue whale data cache, and connect again! No other methods are currently available. See how to get rid of this bug later！"
-            },
-            {
-                "zhTitle": "正式版Bug",
-                "zhContent": "正式版上线后发现好多Bug，晚上一直在想办法修复，我会尽快把现有的问题修复，还有感谢那几位改评论的大兄弟，在此谢谢你们了，不好意思，我昨天看完确实有点气，应用新上线，我可能有点小期待，原谅的我玻璃心。还有遇到bug的朋友可以截图发邮件我，这样我比较好修复，因为我自己手机测试了没问题才上线的，但是安卓的机型太多了，只有上线才能真正发现问题。等等我吧，如果发现蓝鲸不如速鱼，就在等等蓝鲸修复好，蓝鲸加的所谓高级服务器，其实就是一台独立的服务器，独享的服务器。理论上是比其他要强大。其他那些服务器是共享的带宽，所以晚上巨卡。有钱我还真想全部换，或者在加多台香港的独立，看看合不合适玩游戏。前期，就和蓝鲸一起折腾呗。最后谢谢你们的好评，真心感谢!!!!!短短一天，已经快90个5星，还有好多公测版的评论没公开，公测版是只有我才能看到的，谢谢你们！！！",
-                "enTitle": "Official version of bug",
-                "enContent": "After the official version went online, I found a lot of bugs. I tried to fix it at night. I will fix the existing problems as soon as possible. I also thank the big brothers who changed their comments. Thank you, I am sorry, I finished watching yesterday. It's a bit mad, the application is new, I may be a little looking forward to forgive me. There are also friends who have encountered bugs can send emails to me, so I am better to fix, because my mobile phone test is no problem before I go online, but there are too many Android models, only the online can really find the problem. Wait for me, if you find that the blue whale is not as good as the fast fish, you can wait for the blue whale to be repaired. The so-called advanced server added by the blue whale is actually a stand-alone server and an exclusive server. In theory, it is stronger than others. The other servers are shared bandwidth, so the night giant card. I really want to change all the money, or to add more independence to Hong Kong to see if it is suitable for playing games. In the early stage, I was tossed with the blue whale. Finally, thank you for your praise, thank you very much!!!!! In just one day, it’s already 90 stars and 5 stars. There are still a lot of public beta reviews. The public beta is only available to me. Thank you! ! !"
             },
             {
                 "zhTitle": "蓝鲸的优化方向",

@@ -2,10 +2,10 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"versionCode": 101,
-		"version": "1.0.1",
-		"zhDesc": "1. 新应用上线 ",
-		"enDesc": "1. New Application ",
+		"versionCode": 102,
+		"version": "1.0.2",
+		"zhDesc": "1. 修复一大波Bug\n2.增加去广告秘技（新模式） ",
+		"enDesc": "1. fix a lot of bugs\n2. increase the advertising secrets (new mode) ",
 		"type": 1,
 		"source":""
 	}

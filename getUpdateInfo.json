@@ -2,9 +2,9 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"versionCode": 103,
-		"version": "1.0.3",
-		"zhDesc": "1. 新增加一台伦敦服务器\n2.又双叒叕修复一大波Bug\n3.优化广告问题、增加去广告秘技（新模式） ",
+		"versionCode": 104,
+		"version": "1.0.4",
+		"zhDesc": "1. 新增加一台伦敦服务器\n2.又双叒叕修复一大波Bug\n3.优化广告问题、更适合广告秘技（新模式） ",
 		"enDesc": "1. Add a new London server\n2.fix a lot of bugs\n3. increase the advertising secrets (new mode) ",
 		"type": 1,
 		"source":""

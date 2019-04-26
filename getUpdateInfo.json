@@ -2,10 +2,10 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"versionCode": 104,
-		"version": "1.0.4",
-		"zhDesc": "1. 新增加一台伦敦服务器\n2.又双叒叕修复一大波Bug\n3.优化广告问题、更适合广告秘技（新模式） ",
-		"enDesc": "1. Add a new London server\n2.fix a lot of bugs\n3. increase the advertising secrets (new mode) ",
+		"versionCode": 105,
+		"version": "1.0.5",
+		"zhDesc": "1.增加二台普通服务器。\n2.香港独立服务器（即将上线)。\n3.全局功能全新上线。\n4.去广告秘技（新模式），需要发邮箱告知。\n5.添加繁体。 ",
+		"enDesc": "1. Add two ordinary servers.\n2.Hong Kong independent server (coming soon).\n3. The global mode.\4.No advertising secrets (new mode), send an email to inform!\n5.add traditional. ",
 		"type": 1,
 		"source":""
 	}

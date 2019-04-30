@@ -4,8 +4,8 @@
 	"data": {
 		"versionCode": 105,
 		"version": "1.0.5",
-		"zhDesc": "1.增加二台普通服务器。\n2.香港独立服务器（即将上线)。\n3.全局功能全新上线。\n4.去广告秘技（新模式），需要发邮箱告知。\n5.添加繁体。 ",
-		"enDesc": "1. Add two ordinary servers.\n2.Hong Kong independent server (coming soon).\n3. The global mode.\n4.No advertising secrets (new mode), send an email to inform!\n5.add traditional. ",
+		"zhDesc": "1.增加二台普通服务器。\n2.香港服务器（现在买不起了)。\n3.全局功能全新上线。\n4.去广告秘技（新模式），需要发邮箱告知。\n5.添加繁体。 ",
+		"enDesc": "1. Add two ordinary servers.\n2.more server (coming soon).\n3. The global mode.\n4.No advertising secrets (new mode), send an email to inform!\n5.add traditional. ",
 		"type": 1,
 		"source":""
 	}

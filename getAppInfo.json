@@ -4,8 +4,8 @@
     "data": {
         "info": [
             {
-                "zhTitle": "一部分服务器挂掉了",
-                "zhContent": "不好意思，我现在在维护，等一下就好了",
+                "zhTitle": "服务器异常",
+                "zhContent": "接到服务器数据异常通知，有几台感觉有个人攻击了，现在在处理，先把广告都去掉了，服务器正常后在重新加回来。可能有部分使用者会受影响。抱歉。",
                 "enTitle": "Server maintenance",
                 "enContent": "Server maintenance"
             },    

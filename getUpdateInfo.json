@@ -2,8 +2,8 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"versionCode": 105,
-		"version": "1.0.5",
+		"versionCode": 106,
+		"version": "1.0.6",
 		"zhDesc": "1.去掉视频广告。\n2.优化连接。\n3.去广告秘技变成ABB、BBB机制。",
 		"enDesc": "1. Add two ordinary servers.\n2.more server (coming soon).\n3. The global mode.\n4.No advertising secrets (new mode), send an email to inform!\n5.add traditional. ",
 		"type": 1,

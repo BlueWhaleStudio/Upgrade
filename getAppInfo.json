@@ -3,10 +3,10 @@
     "message": "",
     "data": {
         "info": [{
-                "zhTitle": "一个想钱想疯的开发者",
-                "zhContent": "一个想钱想疯的开发者今天把视频广告全部去掉了，换了两个高级节点，还优化了连接，现在去广告秘技变成ABB、BBB,你们可以试试能不能用。",
-                "enTitle": "Happy Labor Day",
-                "enContent": "Happy Labor Day"
+                "zhTitle": "更新后重启一下",
+                "zhContent": "很多人反馈，更新后显示已连接，但是没有数据，重启一下，可能会有所帮助，或者重新再次搜索服务器。今天又重新加入4个普通节点，服务器不好，只能靠量来凑了，秘技也开了自动回复，机制没有改，只是去掉视频广告，所以没有了C，所以现在秘技就是ABB或者BBB就能触发，已经有好几个朋友自己研究出来了，其实随便折腾一下，应该不难触发。",
+                "enTitle": "Restart after update",
+                "enContent": "Many people feedback that the update shows that it is connected, but there is no data, restart it, it may be helpful, or search the server again. Today, I rejoined 4 ordinary nodes. The server is not good enough."
             }, 
             {
                 "zhTitle": "黑人问号？？？",

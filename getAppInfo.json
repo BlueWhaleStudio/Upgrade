@@ -3,35 +3,12 @@
     "message": "",
     "data": {
         "info": [{
-                "zhTitle": "更新后重启一下",
-                "zhContent": "很多人反馈，更新后显示已连接，但是没有数据，重启一下，可能会有所帮助，或者重新再次搜索服务器。今天又重新加入4个普通节点，服务器不好，只能靠量来凑了，秘技也开了自动回复，机制没有改，只是去掉视频广告，所以没有了C，所以现在秘技就是ABB或者BBB就能触发，已经有好几个朋友自己研究出来了，其实随便折腾一下，应该不难触发。",
-                "enTitle": "Restart after update",
-                "enContent": "Many people feedback that the update shows that it is connected, but there is no data, restart it, it may be helpful, or search the server again. Today, I rejoined 4 ordinary nodes. The server is not good enough."
-            }, 
-            {
-                "zhTitle": "Facebook又给封了",
-                "zhContent": "facebook又给封了~等等把",
-                "enTitle": "Facebook applied well",
-                "enContent": "Facebook application is good, and I want to pay attention.\nAddress:https://www.facebook.com/Bluewhalevip"
-            },    
-            {
-                "zhTitle": "人心为什么就这么丑恶呢？",
-                "zhContent": "从开发到现在，时间和金钱，全搭进去，换来的是什么？早知道就老老实实用别人的就好了。自己何必去搞那么事，搞得四面楚歌，用户抱怨广告多，收益又起不来，服务器商又不好找，钱充多到里面去又怕跑路，少了又贵，而且目前的服务器商的服务器也不稳定，也满足不了大家的地点要求。还有同行的恶性竞争。特别今天那个恶心的人，我真的特别瞧不起这种人，恶心恶心到别人的门前，自己应用不好。不想想自己应用不好的原因，跑来我这边恶心人。蓝鲸还没有上线一个月，就给盯上了，好！我无所谓，你们想搞就搞呗，反正公道自在人心。应用的好评，我靠的是大家的信任与支持。我也不想辜负大家这个4.9分。我会想办法去完善现有的问题，但是我请求的是大家给我点时间，我一个人，而且还要顾工作，还要受这些不知道哪里来的气，有时候真想说，你们爱用不用，不用滚。但是我没有，我觉得这样真的没意思。\n\n写了一半，看了又多了一个1星，而且又还是同行。呵~。啥心情都没有了！",
-                "enTitle": "Hello world",
-                "enContent": "Hello world！"
-            },
-            {
-                "zhTitle": "问题总汇0426",
-                "zhContent": "4月26号，今天是速鱼上线满4个月，也是速鱼正式退出的时候，也迎来了蓝鲸全局功能的上线（V：1.05）。一路走来，很不容易，还好有你们相伴。我想简单说明一下蓝鲸新版本的一些功能和问题。\n1、智能模式，智能模式可以切换全局与PAC模式（代理自动配置），开关切换，开就是自动代理，代理国外被禁站点，国内站点不受影响，所以速度会比较快，但是局限性在于代理配置需要一直更新，不然会有好多站点访问不了。关就是全局代理，全部数据要通过服务器来访问，国内站点也一样，这样会比较慢，甚至会导致国内站点打不开，但是好处就是，全球基本的站点都可以访问。\n2、优化秘技，增加了秘技成功提示，优化秘技触发机制（触发次数不变）。\n3、优化分享链接，分享链接现在分享后有谷歌商店的地址，也有Github的地址，如果没有谷歌商店的朋友，可以通过分享后点击Github链接，下载后就是最新版本的蓝鲸。\n\n以后问题会在这个公布栏进行反馈\n\n1、关于手机有时候显示已连接，但是没有数据传输问题。（重点）\n答：新版本更新后，建议大家重启一下手机，网络复杂，不然很容易出现这个显示已连接，但是没有网络问题。还有排除我会发公告说服务器维护的情况下，一般如果选择服务器后，显示已连接，但是没有数据传输，而且全部服务器都一样，这时候你只要重启一下手机。一般都是能解决。如果不能解决这个问题，请给我留言，一般我也解决不了！我只是陪你聊聊天，舒缓舒缓一下情绪！\n\n2、关于服务器费用问题。\n答：收到几封邮件来说，我说会发公告告诉你们，现在一台普通服务器一个月的费用是20美金，因为共享带宽，所以大多数晚上是高峰期，会不稳定。高级服务器是独立的服务器，个人租的整台服务器，独享带宽，独享性能，一台一个月费用是120美金，所以大多数晚上如果蓝鲸用户少用的情况下，应该会比较稳定。但是网络这东西，谁知道呢。自己用的电信200M，一到下雨天，网络也异常慢，所以我不是说让大家理解我服务器慢，服务器烂不是我的借口，我是想让你们告诉我，有时候体验不好可以发邮件告诉我，我可以改进。我可以知道多少用户该配多少服务器比较合适，我的钱也是钱，也是靠上班挣来的，我只能满足一部分人。好了，我不哭穷，笑着笑着突然哭了。\n\n3、关于开发PC端和iOS问题。\n答：我只是一个弱小可怜又无助但很能吃的安卓程序猿，所以PC端我不懂怎么开发，对于iOS，我可能还有点点了解，所以iOS就后面看吧。\n\n4、关于全局。（已解决）\n答：全局已经加入，请升级到最新版本，后续会开发指定代理，指定列表应用走全局其他应用不走代理！\n\n5、关于应用运行一段时间会断线问题。（已解决）\n答：在5月一号前，会更新把这个问题解决，解决后从之前的频繁断线，变成使用一小时后启动保护机制，需要重新连接，蓝鲸保证不限流，不限速，但是为了保证服务器的稳定，蓝鲸需要启动保护机制。5月1号后，如果还频繁断线，请升级到最新版本的蓝鲸，就可以解决，如果还是会断线，应该就自身手机的问题，目前安卓9的华为手机最为不稳定。后面有钱我去买个二手的来测试测试。\n\n",
-                "enTitle": "Problem summary 0426",
-                "enContent": "On April 26, today is the full 4 months of fast fish online, is also the official exit of fast fish, also ushered in the blue whale global function online (V: 1.05). Along the way, it is not easy, but you have accompanied. I would like to briefly explain some functions and problems of the new version of blue whale. \n1, intelligent mode, intelligent model can switch global and PAC (proxy automatic configuration), switch to open is automatic agent, agent abroad banned sites, domestic site is not affected, so speed will be faster, but the limitation is that proxy configuration need has been updated, or you will have a lot of sites to visit. Close is the global agent, all the data through the server to access, domestic site is also the same, this will be slower, and even lead to domestic site open, but the advantage is that the global basic site can be accessed. \n2, optimize secret skill, added secret skill successful hint, optimize secret skill trigger mechanism (the number of trigger is constant). \n3, optimize share link, share link now share after Google store address, also have Github address, if there is no Google store friend, you can share after clicking Github link, download is the latest version of the blue whale. \n\n later the question will carry on the feedback \n\n1 in this public notice column, about the handset sometimes displays already connected, but does not have the data transmission question. (key) \n answer: after the new version is updated, it is suggested that we restart the mobile phone, the network is complex, otherwise it is easy to appear this display has been connected, but there is no network problem. Still have exclude me to send announcement to say the case that server maintains, if choose a server commonly, show connected, but without data transmission, and all servers are same, at this moment you should restart mobile phone only. It's usually solvable. If you can not solve this problem, please give me a message, I can not solve the general! I just chat with you, to ease the mood! \n\n2. Server fees. A: after receiving several emails, I said I would send an announcement to tell you that the cost of a common server is $20 per month now, because of the Shared bandwidth, most evenings are peak hours and will be unstable. Advanced server is a separate server, the whole server rented by individuals, exclusive bandwidth, exclusive performance, a monthly cost of $120, so most nights if the blue whale users use less, should be relatively stable. But the Internet, who knows. When it rains, the network is extremely slow. So I don't mean to let you understand that my server is slow and the bad server is not my excuse. I just want you to tell me. I can know how many users should be equipped with how many servers more appropriate, my money is money, but also by working to earn, I can only meet a part of the people. Well, I don't cry poor, laughing suddenly cried. Item 3, about developing PC and iOS. \n answer: I am just a weak and pitiful and helpless but very can eat android program ape, so PC side I don't know how to develop, for iOS, I may have a little understanding, so iOS will see later. Item 4, about the whole situation. (solved) \n answer: global has been added, please upgrade to the latest version, the follow-up will develop the designated agent, the designated list application go global other applications do not go agent! Item n\n5, about the problem that the application will be disconnected after running for some time. (solved) \n answer: before May 1st, we will update to solve this problem. After solving it, we will change from frequent disconnection before to starting the protection mechanism after using it for one hour. We need to reconnect. After May 1st, if you still frequently break the line, please upgrade to the latest version of blue whale, which can solve the problem. If you still break the line, you should solve the problem of your own mobile phone, the current android 9 huawei mobile phone is the most unstable. Behind the money I buy a used to test the test. \n\n"
-            },
-            {
-                "zhTitle": "关于跳过广告秘技（更新）",
-                "zhContent": "秘技已经公布在Facebook上面。",
-                "enTitle": "No advertising secrets (new mode)",
-                "enContent": "Eggs, discover yourself!"
+                "zhTitle": "应用后台故障",
+                "zhContent": "应用后台故障，导致高级服务器加载不出来，而且搜索完服务器会提示服务器维护中，我在看哪里出问题，这两天造成不便。抱歉。深夜才发现。不好意思。",
+                "enTitle": "Application background failure",
+                "enContent": "Application background failure, resulting in the advanced server can not load out, and after searching the server will prompt the server maintenance, I am looking where the problem, these two days caused inconvenience. I'm sorry. I found out late at night. Sorry."
             }
+          
         ]
     }
 }

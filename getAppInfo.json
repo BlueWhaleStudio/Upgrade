@@ -3,10 +3,10 @@
     "message": "",
     "data": {
         "info": [{
-                "zhTitle": "应用后台故障",
-                "zhContent": "应用后台故障，导致高级服务器加载不出来，而且搜索完服务器会提示服务器维护中，应用我也下架了，我在看哪里出问题，这两天造成不便。抱歉。深夜才发现。不好意思。",
-                "enTitle": "Application background failure",
-                "enContent": "Application background failure, resulting in the advanced server can not load out, and after searching the server will prompt the server maintenance, I am looking where the problem, these two days caused inconvenience. I'm sorry. I found out late at night. Sorry."
+                "zhTitle": "你好，世界！",
+                "zhContent": "你好，世界！",
+                "enTitle": "Hello world！",
+                "enContent": "Hello world！"
             }
           
         ]

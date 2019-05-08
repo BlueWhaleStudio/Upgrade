@@ -8,6 +8,12 @@
                 "enTitle": "Hello world！",
                 "enContent": "Hello world！"
             },
+                 {
+                "zhTitle": "显示已连接，无数据！",
+                "zhContent": "好多人反馈，显示已连接，但是数据连接是0kb，这时候试试去首页关闭搜索开关，重新搜索服务器试试，如果还是一样，建议重启一下手机，这是bug，我会在下一版本看看怎么修复。",
+                "enTitle": "Display connected, no data!",
+                "enContent": "A lot of people feedback, the display is connected, but the data connection is 0kb, this time try to go to the home page to close the search switch, try again to search the server, if it is still the same, it is recommended to restart the phone, this is a bug, I will look at the next version How to fix"
+            },
           {
                 "zhTitle": "Facebook又正常了",
                 "zhContent": "facebook恢复了，正常了，地址：https://www.facebook.com/Bluewhalevip\n\n秘技公布在上面，需要的去看。谢谢了。",

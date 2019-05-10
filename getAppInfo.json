@@ -9,10 +9,16 @@
                 "enContent": "Hello world！"
             },
                  {
+                "zhTitle": "1.0.7重大更新!",
+                "zhContent": "好累！终于解决了，连接的问题，大家可以更新试试，现在不会出现显示已连接，但是没有网络问题。还优化了图标、华为手机奔溃问题。希望新版本你们会喜欢。希望同行不用在恶意中伤。其实一直以来，我没有吹嘘过什么！我也从来没有说我的应用没有广告，我需要钱，我需要广告来维护！我希望做到大家都不反感广告，这不是我对大家承诺什么，而且我对我自己应用的要求，我需要在收益与体验做一个平衡，我也一直在尝试。至于连接问题，你们给差评，我也觉得很正常，毕竟你们看了几个可能给我带来不到几分钱收益的广告就觉得我欠你什么的人，我还能说什么呢？将心比心。我也非常感谢那些体验不好，然后给我留好评鼓励的人，我不会让你们失望的。我会坚持下去。1.07版本我就是来履行我的承诺，给你们带来更好的体验。蓝鲸广告很多！谢谢谅解~",
+                "enTitle": "1.0.7 major update!",
+                "enContent": "So tired! Finally solved, the connection problem, you can update and try, now there will be no display connection, but no network problems. It also optimized the icon and Huawei mobile phone crash. I hope that you will like the new version. I hope that my peers will not be malicious. In fact, I have never boasted anything! I have never said that my app has no ads, I need money, I need ads to maintain! I hope that everyone will not dislike advertising. This is not what I promise to everyone, and my requirements for my own application, I need to balance the benefits and experience, I have been trying. As for the connection problem, I feel that it is normal for you to give a bad review. After all, if you look at a few advertisements that may bring me less than a few cents of income, what do you think I owe you, what else can I say? Think of your heart. I am also very grateful to those who have a bad experience and then give me praise and encouragement, I will not let you down. I will stick to it. Version 1.07 I am here to fulfill my promise and bring you a better experience. Blue whale advertising a lot! Thank you for your understanding~."
+            },
+                 {
                 "zhTitle": "显示已连接，无数据！",
-                "zhContent": "好多人反馈，显示已连接，但是数据连接是0kb，这时候试试去首页关闭搜索开关，重新搜索服务器试试，如果还是一样，建议重启一下手机，这是bug，我会在下一版本看看怎么修复。",
+                "zhContent": "好多人反馈，显示已连接，但是数据连接是0kb，这时候试试去首页关闭搜索开关，重新搜索服务器试试，如果还是一样，建议重启一下手机，这是bug，我会在下一版本看看怎么修复。升级到1.0.7已经解决这问题。",
                 "enTitle": "Display connected, no data!",
-                "enContent": "A lot of people feedback, the display is connected, but the data connection is 0kb, this time try to go to the home page to close the search switch, try again to search the server, if it is still the same, it is recommended to restart the phone, this is a bug, I will look at the next version How to fix"
+                "enContent": "A lot of people feedback, the display is connected, but the data connection is 0kb, this time try to go to the home page to close the search switch, try again to search the server, if it is still the same, it is recommended to restart the phone, this is a bug, I will look at the next version How to fix.Upgrading to 1.0.7 has solved this problem."
             },
           {
                 "zhTitle": "跳过广告秘技",

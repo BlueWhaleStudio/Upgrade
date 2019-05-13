@@ -2,8 +2,8 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"versionCode": 107,
-		"version": "1.0.7",
+		"versionCode": 108,
+		"version": "1.0.8",
 		"zhDesc": "1.修复连接问题（重大更新）。\n2.（免广告）秘技触发优化。\n3.增加自定义代理模式。\n优化了一些小问题。",
 		"enDesc": "1. Fix connection problems (major update).\n2.(free advertising) cheats trigger optimization.\n3.Add a custom proxy mode.\nOptimized some minor issues. ",
 		"type": 1,

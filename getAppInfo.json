@@ -8,6 +8,11 @@
                 "enTitle": "Hello world！",
                 "enContent": "Hello world！"
             },{
+                "zhTitle": "台湾节点要来了！",
+                "zhContent": "台湾节点要来了！.",
+                "enTitle": "Taiwan node is coming!",
+                "enContent": "Taiwan node is coming!"
+            }, {
                 "zhTitle": "广告模式改版了！",
                 "zhContent": "哎呀！大家好！我又要升级了，百般无奈下，我改版了。然后后面会怎么样发展下去，就看天了。好多人反馈说服务器卡，我今天维护完，重新多了16个普通服务器，现在总共有32个普通服务器，一组16个。后面人数多我会在加多一倍，目前我自己体验还是正常，如果要求太高的，蓝鲸可能满足不了大家，靠广告维持就只能这样了。至于高级服务器，改版后要触发秘技才能开通，大家可以学习秘技，以后好的体验都会建立在秘技上面。如果需要秘技可以去facebook看。2019-05-14.",
                 "enTitle": "The ads model has been revised",

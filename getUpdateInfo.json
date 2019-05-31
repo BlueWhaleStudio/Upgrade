@@ -2,9 +2,9 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"versionCode": 110,
-		"version": "1.1.0",
-		"zhDesc": "1、回国框架搭建完成。\n2、增加限流精品服务器框架（精品服务器连续上线）。\n3、高级服务器使用机制优化。\n跳过广告秘技发邮件告知",
+		"versionCode": 112,
+		"version": "1.1.2",
+		"zhDesc": "1、修复3天开启高级服务器Bug。\n2、修复限流服务器流量问题。\n3、增加限流服务器韩国（精品）1.1.2版本能显示。\n4增加两台回国服务器。\n跳过广告秘技发邮件告知",
 		"enDesc": "1. The returning country framework was completed.\n2. Increase the flow limit boutique server framework (the boutique server is continuously online).\n3. advanced server usage mechanism optimization.\nSkip ad cheats and send emails to inform. ",
 		"type": 1,
 		"source":""

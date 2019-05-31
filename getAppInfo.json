@@ -3,20 +3,10 @@
     "message": "",
     "data": {
         "info": [{
-                "zhTitle": "人无完人，谢谢信任！",
-                "zhContent": "这今天莫名看到蓝鲸的某些排名已经飙到第二名，其实有点惊讶，蓝鲸的问题还那么多！还能有那么用户的青睐！真的非常感谢你们！蓝鲸连接问题一直存在，可能是速鱼那时候为了实现快速切换节点导致的，这几天一直在找原因，新版本优化可能明天就会上线。解决了小图标问题，还解决的华为用户容易闪退，奔溃问题，不过都是需要后面你们帮我测试，因为我自己只有一台烂红米测试机，这几天看了一下华为荣耀10，二手都要一千多。我默默的关了淘宝！假装自己不喜欢二手。还有也解决了蓝鲸显示已连接，但是没有网络数据的问题。至少我红米测试还是算正常，这些也是需要后面你们帮我测试！还有就是测试连接不上。麻烦不用骂我。其实骂我没多大用，因为我看着每天卸载的用户那么多，隔着屏幕我都觉得痛，真的不用骂我，卸载我心更痛。再者说说那些低星的留言吧，其实我人很敏感，那些是真的用户给我吐槽，我知道，那些是恶意我也知道。所以我想说抱歉，我也只能以恶制恶，今天有个给我留了2星的开发者，其实他伪装得不好，我看着他的留言我真的觉得挺搞笑的，应用做不好，可能就是人的问题吧，说话的逻辑都有问题，又如何把编程编好，再说，编故事都没有我厉害。还有本来今天想更新多一台香港服务器，后面凌晨过了，如果刷新你们又要重新看多一遍广告，我就没有，等明天上新版本我在一起更新吧。\n\n最后想说的~~人无完人，蓝鲸如此，谢谢信任！",
+                "zhTitle": "抱歉!",
+                "zhContent": "精力有限，做得不够好，抱歉！",
                 "enTitle": "Hello world！",
                 "enContent": "Hello world！"
-            },{
-                "zhTitle": "更新了1.10版本！",
-                "zhContent": "这几天测试又测试，终于没有什么大问题了。回国框架已经搭建好，只是现在还没有服务器，断断续续买了几个，都好慢，国内的服务器好坑爹，又要备案，各种麻烦，买了3个，最后都申请退款了，还不知道能不能退款成功，真恶心。还有增加精品限流线路，也会陆续上线，什么CN2，各种精品线路，各种偏门节点等你们来测验。还有高级服务器准备上多一个台湾节点，这个会比之前的好一倍至少，高带宽（看了商家各种吹，还写着不包退款，有点怕），给我点时间，我去买来试试。\n\n下面是重点内容，以下内容过于真实，容易引起不适，请在成人陪伴下观看，如果已经成年，请忽略掉上面的警告。秘技！！！！！重点来了！！！秘技这东西应该好多人都知道了，1.08以下的版本是使用秘技免广告，而1.09版本以上是使用秘技可以使用高级节点，这一改，炸了！大家都来讨伐我！！！都觉得蓝鲸飘了，好好的机制改成这什么鬼东西，还埋怨胖鲸的服务器越改越慢，真是有苦说不出，服务器还是一样的配方，还是一样的味道，我改版只是改了使用机制，网络不好真的和我没关系，我也各种优化，但是国际带宽就在哪里，人多就卡，我也在增加服务器，现在每天都不敢看回复，生怕一堆不满意，然后我又改善不了。吐槽完，说点正事，脸书挂了，我把秘技写在Github上面，需要秘技的发邮件给我，邮件我设置自动回复，里面有秘技地址、里面有降级版本的下载链接（1.08版本），如果不满意新版机制，可以降级到1.08.如果觉得机制可以接受，就升级新版本1.10,新版本考虑到好多人广告加载不出，所以加入连续三天登陆就可以默认开启高级服务器。同时秘技也可以使用。最后最后，感谢那些默默支持蓝鲸的朋友，我知道你们一直都在。谢谢你们！",
-                "enTitle": "Taiwan node is coming!",
-                "enContent": "Taiwan node is coming!"
-            }, {
-                "zhTitle": "广告模式改版了！",
-                "zhContent": "哎呀！大家好！我又要升级了，百般无奈下，我改版了。然后后面会怎么样发展下去，就看天了。好多人反馈说服务器卡，我今天维护完，重新多了16个普通服务器，现在总共有32个普通服务器，一组16个。后面人数多我会在加多一倍，目前我自己体验还是正常，如果要求太高的，蓝鲸可能满足不了大家，靠广告维持就只能这样了。至于高级服务器，改版后要触发秘技才能开通，大家可以学习秘技，以后好的体验都会建立在秘技上面。如果需要秘技可以发邮件给我。2019-05-14.",
-                "enTitle": "The ads model has been revised",
-                "enContent": "Hello everyone! I have to upgrade again. I have no choice but to change it. Then how will it develop in the future, just look at the sky. A lot of people reported that the server card, I have maintained today, and re-added 16 ordinary servers, now there are a total of 32 ordinary servers, a group of 16. I will double the number of people behind me. At present, my experience is still normal. If the requirements are too high, the blue whale may not be able to satisfy everyone. It can only be maintained by advertising. As for the advanced server, you must trigger the secret technology to be opened after the revision. You can learn the secret skills, and the good experience will be built on the secret technology. If you need secret skills, you can go to facebook. 2019-05-14."
             }
         ]
     }

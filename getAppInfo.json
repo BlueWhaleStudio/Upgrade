@@ -3,8 +3,8 @@
     "message": "",
     "data": {
         "info": [{
-                "zhTitle": "应用下架",
-                "zhContent": "应用下架",
+                "zhTitle": "你好",
+                "zhContent": "你好！",
                 "enTitle": "Hello world！",
                 "enContent": "Hello world！"
             }

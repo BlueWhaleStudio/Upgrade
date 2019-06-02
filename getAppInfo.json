@@ -3,8 +3,8 @@
     "message": "",
     "data": {
         "info": [{
-                "zhTitle": "你好",
-                "zhContent": "你好！需要秘技发邮件，里面有你想要的",
+                "zhTitle": "紧急通知",
+                "zhContent": "最近服务器封锁严重，好多自用的线路都给封了，蓝鲸都准备下架了，等这段时间过了再上线，实在折腾不来,需要秘技发邮件给我，我设置了自动回复。",
                 "enTitle": "Hello world！",
                 "enContent": "Hello world！"
             }

@@ -5,13 +5,13 @@
         "info": [{
                 "zhTitle": "关于秘技",
                 "zhContent": "秘技现在不用发邮件了，我搞了一个博客站点，地址：www.bluewhalevpn.com，密码：bluewhale123。需要的上去看，我看看后面更新一下图文说明，还有台中服务器挂了，我在和服务器商交涉中，造成不便，实在抱歉。\n最后感谢你们一路相伴.谢谢你们！",
-                "enTitle": "Hello world！",
-                "enContent": "Hello world！"
+                "enTitle": "Sorry！",
+                "enContent": "During this time, the network is unstable, and many servers are slow. I suggest you use the advanced server. If you want to use the advanced server, you can check out my blog, but currently only Chinese, I will increase the English version of the cheats in the future. The following is my blog address: www.bluewhalevpn.com, password: bluewhale123. Thank you for trying to understand and all your support. I really appreciate it."
             },{
-                "zhTitle": "更新了一下服务器",
-                "zhContent": "更新了一下服务器！",
-                "enTitle": "Hello world！",
-                "enContent": "Hello world！"
+                "zhTitle": "建议大家重启一下手机",
+                "zhContent": "更新了一下服务器！如果遇到无法连接，建议大家重启一下手机。",
+                "enTitle": "Update server！",
+                "enContent": "Unable to connect, it is recommended to restart the phone！"
             }
         ]
     }

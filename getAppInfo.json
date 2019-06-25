@@ -13,10 +13,10 @@
                 "enTitle": "Update server！",
                 "enContent": "Unable to connect, it is recommended to restart the phone！"
             },{
-                "zhTitle": "我也很绝望！",
-                "zhContent": "好多服务器商的IP都给封了，现在申请的服务器基本都是用不了，只能在现有的服务器基础上维护，或者等新的服务器商申请下来，我在更新一波服务器。这个月一直好卡，我自己也好难受。而且这两天谷歌给的广告单价也只有之前的三分之一不到。哎！生活还是要继续，我还要继续完善应用，或者等哪天应用真的完善好了，我看看收益怎么样。重新制定一些机制。服务器后台已经在完善中，还有把延迟机制更新回来，还有把老版本的模式再加来，多一种选择。你们也可以更方便的使用高级服务器。这该死的6月！！！最后，祝每个为家庭奋斗的父亲！父亲节快乐！",
-                "enTitle": "I'm desperate too！",
-                "enContent": "The IP of a lot of server business gave close, the server that applies for now basically cannot be used, can maintain on existing server foundation only, or wait for new server business to apply for to come down, I am updating server of a wave. This month has been good card, I also feel bad. In addition, the unit price of Google advertising in these two days is less than one third of the previous price. Ah! Life has to go on, I have to continue to improve the application, or wait for one day when the application is really perfect, I will see how the revenue. Reinstitute some mechanisms. Server background has been improved, and the delay mechanism to update back, and the old version of the mode to add, one more choice. You can also use advanced servers more easily. Damn June!!! Finally, I wish every father who fights for his family! Happy father's day!"
+                "zhTitle": "新版本即将发布！",
+                "zhContent": "来了来了！新版本即将发布！延迟显示即将归来！增加节点连接测试，老版本开启高级节点也一起回归，多重选择。这段时间实在抱歉，我工作上有点忙，这段时间只是在服务器上做简单的维护，连回复也没时间看了。赶紧过了这该死的6月！7月啊！希望你要对我好一点！",
+                "enTitle": "New version coming soon！",
+                "enContent": "I'm coming! The new version will be released soon! The delay display is coming soon! Increase the node connection test, the old version opens the advanced node and returns together, multiple choices. I was really sorry during this time. I was a little busy at work. During this time, I just did a simple maintenance on the server. I didn't even have time to read it. Hurry up this damn June! July! I hope you will be better to me!!"
             }
         ]
     }

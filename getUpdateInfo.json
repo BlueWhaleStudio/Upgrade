@@ -2,10 +2,10 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"versionCode": 112,
-		"version": "1.1.2",
-		"zhDesc": "1、修复3天开启高级服务器Bug。\n2、修复限流服务器流量问题。\n3、增加限流服务器韩国（精品）1.1.2版本能显示。\n4增加两台回国服务器。\n跳过广告秘技发邮件告知",
-		"enDesc": "1. The returning country framework was completed.\n2. Increase the flow limit boutique server framework (the boutique server is continuously online).\n3. advanced server usage mechanism optimization.\nSkip ad cheats and send emails to inform. ",
+		"versionCode": 113,
+		"version": "1.1.3",
+		"zhDesc": "1、修复三天登陆开启高级服务器Bug。\n2、双模式开启高级高级服务器，更方便。\n3、延迟测试正式回归。\n4、优化连接模式。\n跳过广告秘技看公告有说明",
+		"enDesc": "1. Fix the three-day login to open the advanced server bug.\n2. Dual mode to open advanced advanced server, more convenient.\n3. The delay test is officially returned.\nSkip ad cheats and send emails to inform. ",
 		"type": 1,
 		"source":""
 	}

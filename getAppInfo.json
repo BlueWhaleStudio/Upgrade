@@ -8,8 +8,8 @@
                 "enTitle": "Sorry！",
                 "enContent": "During this time, the network is unstable, and many servers are slow. I suggest you use the advanced server. If you want to use the advanced server, you can check out my blog, but currently only Chinese, I will increase the English version of the cheats in the future. The following is my blog address: www.bluewhalevpn.com, password: bluewhale123. Thank you for trying to understand and all your support. I really appreciate it."
             },{
-                "zhTitle": "建议大家重启一下手机",
-                "zhContent": "更新了一下服务器！如果遇到无法连接，建议大家重启一下手机。",
+                "zhTitle": "蓝鲸排查手册",
+                "zhContent": "大家好！我叫蓝鲸，答疑解难一时爽，一直答疑解难，一直爽。不过今天有点累了！我不答了！！！！刚刚修复了几个不能用的服务器。还有一些没来得及修复，预计这几天弄好。如果在使用的过程中遇到不能使用的情况，请按照以下流程试试。\n\n1、如果提示无网络的情况，大多数是因为当前网络无法加载蓝鲸的远程服务器的配置。需要退出重新启动蓝鲸（要退得干干净净的那种)。然后再试试，或者换换wifi、4G切换试试。\n\n2、如果遇到全部服务器的延迟测试都不可用，一般这种有两种可能，一是当前服务器全部给墙了，这种情况只要清除蓝鲸的缓冲（要清得干干净净的那种）。另外一种就是把手机重启一下。应该都能解决问题。\n\n3、关于掉线问题，蓝鲸现在设置为2个小时断一次线。如果是其他时间，一般是手机的查杀问题，或者其他手机机制问题，这一点我无法保证每款手机都对蓝鲸是友好的。\n\n4、蓝鲸的广告凌晨会重置，想要使用高级服务器，每天都需要使用秘籍，或者模式B，从头看到尾，就能自动开启。这点实在抱歉。为了生存望见谅。我能向大家保证。蓝鲸广告的所得大部分是用在服务器的购买上面。如果以后坚持不下去，我会提前和大家说。\n\n5、三天登陆问题，有人说可以，那就应该是正常的。我这几天自己也试试看。\n\n6、简单来说，如果遇到不能用的情况下，第一就是退出重新登录，第二就是清除蓝鲸缓存，第三就是重启手机。如果以上三步都无法连接，那我就真的没办法了！因为我能确保大部分服务器都能用！如果都是不能用，可能就是手机兼容问题了。/n/n/n无法使用就重启手机！或者清除蓝鲸缓存。",
                 "enTitle": "Update server！",
                 "enContent": "Unable to connect, it is recommended to restart the phone！"
             },{

@@ -6,7 +6,7 @@
 		"version": "1.1.5",
 		"zhDesc": "1、修复github服务器列表封锁问题，低版本现在用不用了了，要等github恢复正常才能使用。最新版本现在使用双重机制。可以避过这个问题。这段时间抱歉了各位。最新版本才能获取服务器列表。",
 		"enDesc": "Fixed the list blocking problem of github server, the low version is not available now, and can only be used when github is back to normal. The latest version now USES a dual mechanism. You can get around that. Sorry for the time. Latest version to get server list. ",
-		"type": 2,
+		"type": 1,
 		"source":""
 	}
 }

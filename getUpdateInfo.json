@@ -2,11 +2,11 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"versionCode": 115,
-		"version": "1.1.5",
-		"zhDesc": "1、修复github服务器列表封锁问题，低版本现在用不用了了，要等github恢复正常才能使用。最新版本现在使用双重机制。可以避过这个问题。这段时间抱歉了各位。最新版本才能获取服务器列表。",
-		"enDesc": "Fixed the list blocking problem of github server, the low version is not available now, and can only be used when github is back to normal. The latest version now USES a dual mechanism. You can get around that. Sorry for the time. Latest version to get server list. ",
-		"type": 1,
-		"source":""
+		"versionCode": 121,
+		"version": "1.2.1",
+		"zhDesc": "旧版本服务器已经无法使用，请更新最新版本,非谷歌更新网站：www.whalerun.net",
+		"enDesc": "Old version server is no longer available, please update the latest version, non-google update website: www.whalerun.net ",
+		"type": 2,
+		"source":"https://down.sgvpstwo.site/down/Bluewhale1.21.apk"
 	}
 }
